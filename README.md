@@ -1,4 +1,5 @@
-# AIDLC Workshop
+# AIDLC Workshop test
+
 
 AIDLC (AI-Driven Development Life Cycle) 워크샵을 위한 사전 구성 프로젝트입니다.
 
